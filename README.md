@@ -1,12 +1,12 @@
 <h1 align="center"> Hello Everyone👋</h1> 
 <h1 align="center"> I'm Mahmoud Ayman</h1>
 
-## I'm a Software Engineer and Instructor
+## I'm a Software Engineer and Competitive programming Instructor
 
 - 🌱 I’m currently learning **Front-End Web Development**
 - 💬 Ask me about **Data Structures, Algorithms, C++, and Front-End Development**
 - 📫 You can reach me through: **mahmoudayman1542@gmail.com**
-- 📄 Know more about me from my **[CV](https://drive.google.com/file/d/1o692cPicF2KC4hSb3hsWpdoZLEy-G9zD/view?usp=sharing)**
+- 📄 Know more about me from my <a href="https://drive.google.com/file/d/1o692cPicF2KC4hSb3hsWpdoZLEy-G9zD/view?usp=sharing" target="_blank">CV</a>
 
 <br>
 <hr>
