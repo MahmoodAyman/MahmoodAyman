@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Front-End Web Development**
 - 💬 Ask me about **Data Structures, Algorithms, C++, and Front-End Development**
 - 📫 You can reach me through: **mahmoudayman1542@gmail.com**
-- 📄 Know more about me from my **[CV](https://drive.google.com/file/d/12wvKzCEthPYSAwhCbNU0xedetPvAUnzW/view?usp=sharing)**
+- 📄 Know more about me from my **[CV](https://drive.google.com/file/d/1o692cPicF2KC4hSb3hsWpdoZLEy-G9zD/view?usp=sharing)**
 
 <br>
 <hr>
