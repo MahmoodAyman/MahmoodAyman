@@ -5,18 +5,12 @@
 
 <h1 align="center">Hello, I'm Mahmoud Ayman 👋</h1>
 <p align="center">
-  <strong>Software Engineer | Full‑Stack Developer | Tech Enthusiast</strong>
+  <strong>Software Engineer | Full‑Stack .NET Developer | Tech Enthusiast</strong>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahm0udayman/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40">
-  </a>
-  <a href="https://www.facebook.com/m7m0oud" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40">
-  </a>
-  <a href="https://codeforces.com/profile/balltze" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="40">
   </a>
   <a href="https://leetcode.com/MahmoodAyman" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40">
@@ -59,7 +53,7 @@ I'm a passionate Software Engineer with expertise in full‑stack development. M
 
 ## Skills
 
-- **Frontend:** HTML, CSS, TailwindCSS, JavaScript, TypeScript, Angular  
+- **Frontend:** HTML, CSS, TailwindCSS, JavaScript, TypeScript
 - **Backend:** ASP .NET, C#, Entity Framework, LINQ  
 - **Database:** SQL, Database Analysis & Optimization  
 - **Design & Best Practices:** OOP, SOLID Principles, Design Patterns  
@@ -69,7 +63,7 @@ I'm a passionate Software Engineer with expertise in full‑stack development. M
 ---
 
 ## Projects
-
+- **MediCall On-Demand Healthcare: ** [View on GitHub](https://github.com/MahmoodAyman/MediCall.API)
 - **SQL Standalone Database System for LMS:** [View on GitHub](https://github.com/MahmoodAyman/Database-System-)
 - **ASP.NET API Projects:** [View on GitHub](https://github.com/MahmoodAyman/EGWalks)
 - **Cyber Cafe Management System:** [View on GitHub](https://github.com/abdofathy883/PS-Cafe-Management-System)
